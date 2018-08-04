@@ -7,4 +7,4 @@ You can find the data on kaggle here : https://www.kaggle.com/paultimothymooney/
 
 My kaggle kernel if you wanna check it out : https://www.kaggle.com/segfaultalert/pneumonia-classifier-f1-89-5-recall-97-9 
 
-
+The weights : https://www.kaggle.com/gaborfodor/keras-pretrained-models 
